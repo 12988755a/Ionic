@@ -1,0 +1,7 @@
+{
+  "name": "reactWTabsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
